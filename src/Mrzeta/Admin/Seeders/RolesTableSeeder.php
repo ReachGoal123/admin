@@ -3,7 +3,7 @@
 namespace Mrzeta\Admin\Seeders;
 
 use Illuminate\Database\Seeder;
-use Mrzeta\Trusty\Role;
+use Pingpong\Trusty\Role;
 
 class RolesTableSeeder extends Seeder
 {
